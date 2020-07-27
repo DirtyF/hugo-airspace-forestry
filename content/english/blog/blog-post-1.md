@@ -1,5 +1,5 @@
 ---
-title: "How To Wear Bright Shoes"
+title: "How To Edit from Forestry?"
 date: 2018-09-24
 author: John Doe
 image : "images/blog/blog-post-1.jpg"

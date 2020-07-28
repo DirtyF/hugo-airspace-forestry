@@ -1,6 +1,6 @@
 ---
 title: À propos
-description: this is meta description
+description: À propos de cette page.
 bg_image: images/featue-bg.jpg
 
 ---
